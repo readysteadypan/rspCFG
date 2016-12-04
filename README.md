@@ -19,3 +19,5 @@ exec rsp_koth
 
 - 2nd December 2016
   - Imported the 1.6 configs, gave them visual changes. Will update again to 1.8 after testing.
+- 3rd December 2016
+  - Updated the whitelists using whitelist.tf, still need to test them and add sponsorship.
