@@ -21,3 +21,7 @@ exec rsp_koth
   - Imported the 1.6 configs, gave them visual changes. Will update again to 1.8 after testing.
 - 3rd December 2016
   - Updated the whitelists using whitelist.tf, still need to test them and add sponsorship.
+- 4th December 2016
+  - After testing, found out configs don't work on Multiplay.
+  - 4 rounds is too many, 3 is ideal, 30 minutes.
+  - Whitelists weren't working.
