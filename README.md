@@ -3,6 +3,8 @@ Configs for Ready Steady Pan
 
 # Information
 
+These configs are currently in testing and, though functional, are not finalised. We expect to also provide support for FlamingSarge's RSP Plugin and update the whitelist to remove reskins of non-allowed vanilla weapons before we can release it for preseason.
+
 The current version is Version 1.7, updated last on 2nd December 2016. The config was first used in Preseason of Season 3 of Ready Steady Pan. Please direct any queries directly about the configs either in the Issues of this repository or in the Ready Steady Pan [Discord](https://steamcommunity.com/linkfilter/?url=http://discord.gg/2Jzr43T).
 
 # Installation
