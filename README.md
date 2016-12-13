@@ -27,3 +27,6 @@ exec rsp_koth
   - After testing, found out configs don't work on Multiplay.
   - 4 rounds is too many, 3 is ideal, 30 minutes.
   - Whitelists weren't working.
+- 13th December 2016
+  - Stylistic changes to configs.
+  - Added disclaimer to the stopwatch cfg to show that it is not meant to be used in Season 3.
