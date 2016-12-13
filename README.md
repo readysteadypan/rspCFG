@@ -9,7 +9,7 @@ The current version is Version 1.7, updated last on 2nd December 2016. The confi
 
 # Installation
 
-Server owners should "clone" this repository by clicking the green "Clone or Download" button on the top right, underneath "1 contributor." Then, you should copy the unzipped files to your server using FTP (or scp, sFTP, whatever protocol you use). Execute these configs by opening the console, providing an rcon password, and typing:
+Server owners should download the zip for this repository by clicking the green "Clone or Download" button on the top right, underneath "1 contributor." Then, you should copy the (unzipped) files to your server using FTP (or scp, sFTP, whatever protocol you use). Execute these configs by opening the console, providing an rcon password, and typing:
 
 ```
 rcon exec rsp_koth
