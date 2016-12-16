@@ -5,7 +5,7 @@ Configs for Ready Steady Pan
 
 These configs are currently in testing and, though functional, are not finalised. We expect to also provide support for FlamingSarge's RSP Plugin before we can release it for preseason.
 
-The current version is Version 1.7, updated last on 2nd December 2016. The config was first used in Preseason of Season 3 of Ready Steady Pan. Please direct any queries directly about the configs either in the Issues of this repository or in the Ready Steady Pan [Discord](https://steamcommunity.com/linkfilter/?url=http://discord.gg/2Jzr43T).
+The current version is Version 1.7.3, updated last on 16th December 2016. The config was first used in Preseason of Season 3 of Ready Steady Pan. Please direct any queries directly about the configs either in the Issues of this repository or in the Ready Steady Pan [Discord](https://steamcommunity.com/linkfilter/?url=http://discord.gg/2Jzr43T).
 
 # Installation
 
@@ -32,3 +32,6 @@ rcon exec rsp_koth
   - Added disclaimer to the stopwatch cfg to show that it is not meant to be used in Season 3.
 - 14th December 2016
   - Updated whitelists.
+- 16th December 2016
+  - Timelimits updated.
+  - Stopwatch is now back to the way it was.
