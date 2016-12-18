@@ -37,3 +37,5 @@ rcon exec rsp_koth
 - 16th December 2016
   - Timelimits updated.
   - Stopwatch is now back to the way it was.
+- 18th December 2016
+  - Added tftrue integration.
