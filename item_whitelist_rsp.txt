@@ -1,8 +1,8 @@
-// Whitelist generated at Thu, 22 Dec 2016 06:29:22 +0100
-// Whitelist: Ready Steady Pan Season 3 (ID: 6658)
+// Whitelist generated at Fri, 23 Dec 2016 02:58:35 +0100
+// Whitelist: Ready Steady Pan Season 3 (ID: 6686)
 
 // Share or view this whitelist:
-//	http://whitelist.tf/rsp_s3
+//	http://whitelist.tf/item_whitelist_rsp
 
 // New items added to the game are: NOT allowed
 // Hats are: allowed
@@ -3210,7 +3210,7 @@
 	//___________________________ Demoman ___________________________\\
 	"Oblooterated Taunt"						"1"
 	"Spent Well Spirits Taunt"					"1"
-	"Taunt: Scotsmann's Stagger"					"0"
+	"Taunt: Scotsmann's Stagger"					"1"
 	"Taunt: True Scotsman's Call"					"1"
 	//____________________________ Heavy ____________________________\\
 	"Taunt: The Boiling Point"					"0"
@@ -3224,7 +3224,7 @@
 	"Results Are In Taunt"						"0"
 	//___________________________ Sniper ____________________________\\
 	"I See You Taunt"						"1"
-	"Taunt: Didgeridrongo"						"0"
+	"Taunt: Didgeridrongo"						"1"
 	"Taunt: Most Wanted"						"1"
 	"Taunt: The Killer Solo"					"1"
 	//_____________________________ Spy _____________________________\\
