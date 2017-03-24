@@ -21,21 +21,21 @@ rcon exec rsp_koth
 
 # Changelog
 
-- 2nd December 2016
-  - Imported the 1.6 configs, gave them visual changes. Will update again to 1.8 after testing.
-- 3rd December 2016
-  - Updated the whitelists using whitelist.tf, still need to test them and add sponsorship.
+- 18th December 2016
+  - Added tftrue integration.
+- 16th December 2016
+  - Timelimits updated.
+  - Stopwatch is now back to the way it was.
+- 14th December 2016
+  - Updated whitelists.
+- 13th December 2016
+  - Stylistic changes to configs.
+  - Added disclaimer to the stopwatch cfg to show that it is not meant to be used in Season 3.
 - 4th December 2016
   - After testing, found out configs don't work on Multiplay.
   - 4 rounds is too many, 3 is ideal, 30 minutes.
   - Whitelists weren't working.
-- 13th December 2016
-  - Stylistic changes to configs.
-  - Added disclaimer to the stopwatch cfg to show that it is not meant to be used in Season 3.
-- 14th December 2016
-  - Updated whitelists.
-- 16th December 2016
-  - Timelimits updated.
-  - Stopwatch is now back to the way it was.
-- 18th December 2016
-  - Added tftrue integration.
+- 3rd December 2016
+  - Updated the whitelists using whitelist.tf, still need to test them and add sponsorship.
+- 2nd December 2016
+  - Imported the 1.6 configs, gave them visual changes. Will update again to 1.8 after testing.
