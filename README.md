@@ -21,6 +21,8 @@ rcon exec rsp_koth
 
 # Changelog
 
+- 25th September 2017
+  - Added plugin settings.
 - 18th December 2016
   - Added tftrue integration.
 - 16th December 2016
