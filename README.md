@@ -3,11 +3,11 @@ Configs for Ready Steady Pan
 
 # Information
 
-These configs are currently in testing and, though functional, are not finalised. We expect to also provide support for FlamingSarge's RSP Plugin before we can release it for preseason.
+These configs are in use as of Season 3 of Ready Steady Pan. These are the most up to date configs.
 
 The current version is Version 1.7.3, updated last on 18th December 2016. The config was first used in Preseason of Season 3 of Ready Steady Pan. Please direct any queries directly about the configs either in the Issues of this repository or in the Ready Steady Pan [Discord](https://steamcommunity.com/linkfilter/?url=http://discord.gg/2Jzr43T).
 
-We strongly recommend server owners to use the tftrue plugin if they can, along with the official RSP Plugin.
+We strongly recommend server owners to use the tftrue plugin if they can, along with the official melee plugin.
 
 # Installation
 
