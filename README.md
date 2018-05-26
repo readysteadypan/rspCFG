@@ -1,5 +1,6 @@
 # Ready Steady Pan CFGs
-Configs for Ready Steady Pan
+Testing Period Configs for Ready Steady Pan
+
 
 # Information
 
@@ -21,6 +22,9 @@ rcon exec rsp_koth
 
 # Changelog
 
+- 8th May 2018
+  - (TESTING) Changing timelimits to 15 minutes rather than 30
+  - Unbanning the Buff Banner and Battalions Backup
 - 25th September 2017
   - Added plugin settings.
 - 18th December 2016
