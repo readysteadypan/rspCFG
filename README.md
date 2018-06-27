@@ -1,10 +1,9 @@
 # Ready Steady Pan CFGs
-Testing Period Configs for Ready Steady Pan
 
 
 # Information
 
-These configs are in use as of Season 3 of Ready Steady Pan. These are the most up to date configs.
+These configs are in use as of Season 4 of Ready Steady Pan. These are the most up to date configs.
 
 The current version is Version 1.7.6, updated last on 26th June 2018. The config was first used in Preseason of Season 3 of Ready Steady Pan and now is being used for Season 4. Please direct any queries directly about the configs either in the Issues of this repository or in the Ready Steady Pan [Discord](https://steamcommunity.com/linkfilter/?url=http://discord.gg/2Jzr43T).
 
